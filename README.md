@@ -1,7 +1,7 @@
 # hr50_pref_pr_vote
 
 ## Data
-- `hr50_pref_prvote.csv`: 2024年衆院選における都道府県別党派別の比例代表得票数に関するデータセット
+- `hr50_pref_prvote.csv`: 2024年衆院選における都道府県別党派別の比例代表得票数データ
 
 ### Coding
 - `pref`: 都道府県
